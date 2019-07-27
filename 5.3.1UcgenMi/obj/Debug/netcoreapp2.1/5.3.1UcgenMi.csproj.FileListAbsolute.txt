@@ -1,0 +1,10 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\bin\Debug\netcoreapp2.1\5.3.1UcgenMi.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\bin\Debug\netcoreapp2.1\5.3.1UcgenMi.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\bin\Debug\netcoreapp2.1\5.3.1UcgenMi.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\bin\Debug\netcoreapp2.1\5.3.1UcgenMi.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\bin\Debug\netcoreapp2.1\5.3.1UcgenMi.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\obj\Debug\netcoreapp2.1\5.3.1UcgenMi.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\obj\Debug\netcoreapp2.1\5.3.1UcgenMi.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\obj\Debug\netcoreapp2.1\5.3.1UcgenMi.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\obj\Debug\netcoreapp2.1\5.3.1UcgenMi.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\obj\Debug\netcoreapp2.1\5.3.1UcgenMi.pdb

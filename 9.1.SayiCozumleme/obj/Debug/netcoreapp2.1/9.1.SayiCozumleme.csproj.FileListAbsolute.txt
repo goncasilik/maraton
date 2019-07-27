@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.1.SayiCozumleme\bin\Debug\netcoreapp2.1\9.1.SayiCozumleme.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.1.SayiCozumleme\bin\Debug\netcoreapp2.1\9.1.SayiCozumleme.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.1.SayiCozumleme\bin\Debug\netcoreapp2.1\9.1.SayiCozumleme.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.1.SayiCozumleme\bin\Debug\netcoreapp2.1\9.1.SayiCozumleme.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.1.SayiCozumleme\bin\Debug\netcoreapp2.1\9.1.SayiCozumleme.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.1.SayiCozumleme\obj\Debug\netcoreapp2.1\9.1.SayiCozumleme.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.1.SayiCozumleme\obj\Debug\netcoreapp2.1\9.1.SayiCozumleme.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.1.SayiCozumleme\obj\Debug\netcoreapp2.1\9.1.SayiCozumleme.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.1.SayiCozumleme\obj\Debug\netcoreapp2.1\9.1.SayiCozumleme.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.1.SayiCozumleme\obj\Debug\netcoreapp2.1\9.1.SayiCozumleme.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.1.SayiCozumleme\obj\Debug\netcoreapp2.1\9.1.SayiCozumleme.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\bin\Debug\netcoreapp2.1\8.2.SayiToplamaKuvvet Alma.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\bin\Debug\netcoreapp2.1\8.2.SayiToplamaKuvvet Alma.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\bin\Debug\netcoreapp2.1\8.2.SayiToplamaKuvvet Alma.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\bin\Debug\netcoreapp2.1\8.2.SayiToplamaKuvvet Alma.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\bin\Debug\netcoreapp2.1\8.2.SayiToplamaKuvvet Alma.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\obj\Debug\netcoreapp2.1\8.2.SayiToplamaKuvvet Alma.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\obj\Debug\netcoreapp2.1\8.2.SayiToplamaKuvvet Alma.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\obj\Debug\netcoreapp2.1\8.2.SayiToplamaKuvvet Alma.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\obj\Debug\netcoreapp2.1\8.2.SayiToplamaKuvvet Alma.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\obj\Debug\netcoreapp2.1\8.2.SayiToplamaKuvvet Alma.pdb

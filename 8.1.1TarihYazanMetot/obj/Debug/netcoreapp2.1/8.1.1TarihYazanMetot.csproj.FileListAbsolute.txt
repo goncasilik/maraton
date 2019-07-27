@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\bin\Debug\netcoreapp2.1\8.1.1TarihYazanMetot.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\bin\Debug\netcoreapp2.1\8.1.1TarihYazanMetot.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\bin\Debug\netcoreapp2.1\8.1.1TarihYazanMetot.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\bin\Debug\netcoreapp2.1\8.1.1TarihYazanMetot.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\bin\Debug\netcoreapp2.1\8.1.1TarihYazanMetot.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\obj\Debug\netcoreapp2.1\8.1.1TarihYazanMetot.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\obj\Debug\netcoreapp2.1\8.1.1TarihYazanMetot.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\obj\Debug\netcoreapp2.1\8.1.1TarihYazanMetot.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\obj\Debug\netcoreapp2.1\8.1.1TarihYazanMetot.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\obj\Debug\netcoreapp2.1\8.1.1TarihYazanMetot.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\obj\Debug\netcoreapp2.1\8.1.1TarihYazanMetot.csprojAssemblyReference.cache

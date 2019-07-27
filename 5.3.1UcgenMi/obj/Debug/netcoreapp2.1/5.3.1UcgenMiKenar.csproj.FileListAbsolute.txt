@@ -1,0 +1,10 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\bin\Debug\netcoreapp2.1\5.3.1UcgenMiKenar.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\bin\Debug\netcoreapp2.1\5.3.1UcgenMiKenar.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\bin\Debug\netcoreapp2.1\5.3.1UcgenMiKenar.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\bin\Debug\netcoreapp2.1\5.3.1UcgenMiKenar.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\bin\Debug\netcoreapp2.1\5.3.1UcgenMiKenar.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\obj\Debug\netcoreapp2.1\5.3.1UcgenMiKenar.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\obj\Debug\netcoreapp2.1\5.3.1UcgenMiKenar.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\obj\Debug\netcoreapp2.1\5.3.1UcgenMiKenar.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\obj\Debug\netcoreapp2.1\5.3.1UcgenMiKenar.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.3.1UcgenMi\obj\Debug\netcoreapp2.1\5.3.1UcgenMiKenar.pdb

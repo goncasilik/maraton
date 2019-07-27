@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.3OtoparkUcretHesaplama\bin\Debug\netcoreapp2.1\9.3OtoparkUcretHesaplama.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.3OtoparkUcretHesaplama\bin\Debug\netcoreapp2.1\9.3OtoparkUcretHesaplama.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.3OtoparkUcretHesaplama\bin\Debug\netcoreapp2.1\9.3OtoparkUcretHesaplama.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.3OtoparkUcretHesaplama\bin\Debug\netcoreapp2.1\9.3OtoparkUcretHesaplama.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.3OtoparkUcretHesaplama\bin\Debug\netcoreapp2.1\9.3OtoparkUcretHesaplama.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.3OtoparkUcretHesaplama\obj\Debug\netcoreapp2.1\9.3OtoparkUcretHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.3OtoparkUcretHesaplama\obj\Debug\netcoreapp2.1\9.3OtoparkUcretHesaplama.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.3OtoparkUcretHesaplama\obj\Debug\netcoreapp2.1\9.3OtoparkUcretHesaplama.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.3OtoparkUcretHesaplama\obj\Debug\netcoreapp2.1\9.3OtoparkUcretHesaplama.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.3OtoparkUcretHesaplama\obj\Debug\netcoreapp2.1\9.3OtoparkUcretHesaplama.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.3OtoparkUcretHesaplama\obj\Debug\netcoreapp2.1\9.3OtoparkUcretHesaplama.csprojAssemblyReference.cache

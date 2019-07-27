@@ -1,0 +1,10 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\bin\Debug\netcoreapp2.1\8. Metotlar.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\bin\Debug\netcoreapp2.1\8. Metotlar.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\bin\Debug\netcoreapp2.1\8. Metotlar.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\bin\Debug\netcoreapp2.1\8. Metotlar.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\bin\Debug\netcoreapp2.1\8. Metotlar.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\obj\Debug\netcoreapp2.1\8. Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\obj\Debug\netcoreapp2.1\8. Metotlar.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\obj\Debug\netcoreapp2.1\8. Metotlar.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\obj\Debug\netcoreapp2.1\8. Metotlar.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.1.1TarihYazanMetot\obj\Debug\netcoreapp2.1\8. Metotlar.pdb

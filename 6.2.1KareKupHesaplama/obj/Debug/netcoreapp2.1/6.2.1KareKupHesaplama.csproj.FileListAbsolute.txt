@@ -1,0 +1,10 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.2.1KareKupHesaplama\bin\Debug\netcoreapp2.1\6.2.1KareKupHesaplama.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.2.1KareKupHesaplama\bin\Debug\netcoreapp2.1\6.2.1KareKupHesaplama.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.2.1KareKupHesaplama\bin\Debug\netcoreapp2.1\6.2.1KareKupHesaplama.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.2.1KareKupHesaplama\bin\Debug\netcoreapp2.1\6.2.1KareKupHesaplama.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.2.1KareKupHesaplama\bin\Debug\netcoreapp2.1\6.2.1KareKupHesaplama.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.2.1KareKupHesaplama\obj\Debug\netcoreapp2.1\6.2.1KareKupHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.2.1KareKupHesaplama\obj\Debug\netcoreapp2.1\6.2.1KareKupHesaplama.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.2.1KareKupHesaplama\obj\Debug\netcoreapp2.1\6.2.1KareKupHesaplama.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.2.1KareKupHesaplama\obj\Debug\netcoreapp2.1\6.2.1KareKupHesaplama.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.2.1KareKupHesaplama\obj\Debug\netcoreapp2.1\6.2.1KareKupHesaplama.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.2TamKati\bin\Debug\netcoreapp2.1\5.2.2TamKati.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.2TamKati\bin\Debug\netcoreapp2.1\5.2.2TamKati.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.2TamKati\bin\Debug\netcoreapp2.1\5.2.2TamKati.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.2TamKati\bin\Debug\netcoreapp2.1\5.2.2TamKati.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.2TamKati\bin\Debug\netcoreapp2.1\5.2.2TamKati.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.2TamKati\obj\Debug\netcoreapp2.1\5.2.2TamKati.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.2TamKati\obj\Debug\netcoreapp2.1\5.2.2TamKati.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.2TamKati\obj\Debug\netcoreapp2.1\5.2.2TamKati.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.2TamKati\obj\Debug\netcoreapp2.1\5.2.2TamKati.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.2TamKati\obj\Debug\netcoreapp2.1\5.2.2TamKati.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.2TamKati\obj\Debug\netcoreapp2.1\5.2.2TamKati.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.1.1MaxMin\bin\Debug\netcoreapp2.1\6.1.110SayidaMaxMinBulma.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.1.1MaxMin\bin\Debug\netcoreapp2.1\6.1.110SayidaMaxMinBulma.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.1.1MaxMin\bin\Debug\netcoreapp2.1\6.1.110SayidaMaxMinBulma.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.1.1MaxMin\bin\Debug\netcoreapp2.1\6.1.110SayidaMaxMinBulma.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.1.1MaxMin\bin\Debug\netcoreapp2.1\6.1.110SayidaMaxMinBulma.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.1.1MaxMin\obj\Debug\netcoreapp2.1\6.1.110SayidaMaxMinBulma.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.1.1MaxMin\obj\Debug\netcoreapp2.1\6.1.110SayidaMaxMinBulma.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.1.1MaxMin\obj\Debug\netcoreapp2.1\6.1.110SayidaMaxMinBulma.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.1.1MaxMin\obj\Debug\netcoreapp2.1\6.1.110SayidaMaxMinBulma.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\6.1.1MaxMin\obj\Debug\netcoreapp2.1\6.1.110SayidaMaxMinBulma.pdb

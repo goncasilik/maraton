@@ -1,0 +1,10 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\4.1.1SayiKarsilastirma\bin\Debug\netcoreapp2.1\4.1.1SayiKarsilastirma.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\4.1.1SayiKarsilastirma\bin\Debug\netcoreapp2.1\4.1.1SayiKarsilastirma.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\4.1.1SayiKarsilastirma\bin\Debug\netcoreapp2.1\4.1.1SayiKarsilastirma.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\4.1.1SayiKarsilastirma\bin\Debug\netcoreapp2.1\4.1.1SayiKarsilastirma.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\4.1.1SayiKarsilastirma\bin\Debug\netcoreapp2.1\4.1.1SayiKarsilastirma.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\4.1.1SayiKarsilastirma\obj\Debug\netcoreapp2.1\4.1.1SayiKarsilastirma.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\4.1.1SayiKarsilastirma\obj\Debug\netcoreapp2.1\4.1.1SayiKarsilastirma.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\4.1.1SayiKarsilastirma\obj\Debug\netcoreapp2.1\4.1.1SayiKarsilastirma.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\4.1.1SayiKarsilastirma\obj\Debug\netcoreapp2.1\4.1.1SayiKarsilastirma.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\4.1.1SayiKarsilastirma\obj\Debug\netcoreapp2.1\4.1.1SayiKarsilastirma.pdb

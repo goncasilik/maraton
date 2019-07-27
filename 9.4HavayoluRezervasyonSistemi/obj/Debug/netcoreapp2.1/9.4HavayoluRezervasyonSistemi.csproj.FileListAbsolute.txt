@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.4HavayoluRezervasyonSistemi\bin\Debug\netcoreapp2.1\9.4HavayoluRezervasyonSistemi.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.4HavayoluRezervasyonSistemi\bin\Debug\netcoreapp2.1\9.4HavayoluRezervasyonSistemi.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.4HavayoluRezervasyonSistemi\bin\Debug\netcoreapp2.1\9.4HavayoluRezervasyonSistemi.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.4HavayoluRezervasyonSistemi\bin\Debug\netcoreapp2.1\9.4HavayoluRezervasyonSistemi.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.4HavayoluRezervasyonSistemi\bin\Debug\netcoreapp2.1\9.4HavayoluRezervasyonSistemi.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.4HavayoluRezervasyonSistemi\obj\Debug\netcoreapp2.1\9.4HavayoluRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.4HavayoluRezervasyonSistemi\obj\Debug\netcoreapp2.1\9.4HavayoluRezervasyonSistemi.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.4HavayoluRezervasyonSistemi\obj\Debug\netcoreapp2.1\9.4HavayoluRezervasyonSistemi.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.4HavayoluRezervasyonSistemi\obj\Debug\netcoreapp2.1\9.4HavayoluRezervasyonSistemi.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.4HavayoluRezervasyonSistemi\obj\Debug\netcoreapp2.1\9.4HavayoluRezervasyonSistemi.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.4HavayoluRezervasyonSistemi\obj\Debug\netcoreapp2.1\9.4HavayoluRezervasyonSistemi.csprojAssemblyReference.cache

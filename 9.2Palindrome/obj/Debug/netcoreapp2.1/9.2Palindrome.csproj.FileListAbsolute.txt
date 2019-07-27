@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.2Palindrome\bin\Debug\netcoreapp2.1\9.2Palindrome.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.2Palindrome\bin\Debug\netcoreapp2.1\9.2Palindrome.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.2Palindrome\bin\Debug\netcoreapp2.1\9.2Palindrome.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.2Palindrome\bin\Debug\netcoreapp2.1\9.2Palindrome.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.2Palindrome\bin\Debug\netcoreapp2.1\9.2Palindrome.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.2Palindrome\obj\Debug\netcoreapp2.1\9.2Palindrome.csprojAssemblyReference.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.2Palindrome\obj\Debug\netcoreapp2.1\9.2Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.2Palindrome\obj\Debug\netcoreapp2.1\9.2Palindrome.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.2Palindrome\obj\Debug\netcoreapp2.1\9.2Palindrome.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.2Palindrome\obj\Debug\netcoreapp2.1\9.2Palindrome.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\9.2Palindrome\obj\Debug\netcoreapp2.1\9.2Palindrome.pdb

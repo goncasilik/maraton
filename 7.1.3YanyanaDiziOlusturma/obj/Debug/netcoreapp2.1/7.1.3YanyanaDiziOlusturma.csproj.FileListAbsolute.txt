@@ -1,0 +1,10 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.3YanyanaDiziOlusturma\bin\Debug\netcoreapp2.1\7.1.3YanyanaDiziOlusturma.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.3YanyanaDiziOlusturma\bin\Debug\netcoreapp2.1\7.1.3YanyanaDiziOlusturma.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.3YanyanaDiziOlusturma\bin\Debug\netcoreapp2.1\7.1.3YanyanaDiziOlusturma.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.3YanyanaDiziOlusturma\bin\Debug\netcoreapp2.1\7.1.3YanyanaDiziOlusturma.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.3YanyanaDiziOlusturma\bin\Debug\netcoreapp2.1\7.1.3YanyanaDiziOlusturma.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.3YanyanaDiziOlusturma\obj\Debug\netcoreapp2.1\7.1.3YanyanaDiziOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.3YanyanaDiziOlusturma\obj\Debug\netcoreapp2.1\7.1.3YanyanaDiziOlusturma.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.3YanyanaDiziOlusturma\obj\Debug\netcoreapp2.1\7.1.3YanyanaDiziOlusturma.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.3YanyanaDiziOlusturma\obj\Debug\netcoreapp2.1\7.1.3YanyanaDiziOlusturma.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.3YanyanaDiziOlusturma\obj\Debug\netcoreapp2.1\7.1.3YanyanaDiziOlusturma.pdb

@@ -1,0 +1,10 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\bin\Debug\netcoreapp2.1\8.2.1.2.3MatematikFonkMetot.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\bin\Debug\netcoreapp2.1\8.2.1.2.3MatematikFonkMetot.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\bin\Debug\netcoreapp2.1\8.2.1.2.3MatematikFonkMetot.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\bin\Debug\netcoreapp2.1\8.2.1.2.3MatematikFonkMetot.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\bin\Debug\netcoreapp2.1\8.2.1.2.3MatematikFonkMetot.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\obj\Debug\netcoreapp2.1\8.2.1.2.3MatematikFonkMetot.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\obj\Debug\netcoreapp2.1\8.2.1.2.3MatematikFonkMetot.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\obj\Debug\netcoreapp2.1\8.2.1.2.3MatematikFonkMetot.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\obj\Debug\netcoreapp2.1\8.2.1.2.3MatematikFonkMetot.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.2.3SayininKuvetiniHesaplama\obj\Debug\netcoreapp2.1\8.2.1.2.3MatematikFonkMetot.pdb

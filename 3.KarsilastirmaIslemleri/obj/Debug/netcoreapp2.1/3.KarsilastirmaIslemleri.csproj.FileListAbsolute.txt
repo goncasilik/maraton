@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\3.KarsilastirmaIslemleri\bin\Debug\netcoreapp2.1\3.KarsilastirmaIslemleri.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\3.KarsilastirmaIslemleri\bin\Debug\netcoreapp2.1\3.KarsilastirmaIslemleri.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\3.KarsilastirmaIslemleri\bin\Debug\netcoreapp2.1\3.KarsilastirmaIslemleri.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\3.KarsilastirmaIslemleri\bin\Debug\netcoreapp2.1\3.KarsilastirmaIslemleri.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\3.KarsilastirmaIslemleri\bin\Debug\netcoreapp2.1\3.KarsilastirmaIslemleri.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\3.KarsilastirmaIslemleri\obj\Debug\netcoreapp2.1\3.KarsilastirmaIslemleri.csprojAssemblyReference.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\3.KarsilastirmaIslemleri\obj\Debug\netcoreapp2.1\3.KarsilastirmaIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\3.KarsilastirmaIslemleri\obj\Debug\netcoreapp2.1\3.KarsilastirmaIslemleri.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\3.KarsilastirmaIslemleri\obj\Debug\netcoreapp2.1\3.KarsilastirmaIslemleri.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\3.KarsilastirmaIslemleri\obj\Debug\netcoreapp2.1\3.KarsilastirmaIslemleri.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\3.KarsilastirmaIslemleri\obj\Debug\netcoreapp2.1\3.KarsilastirmaIslemleri.pdb

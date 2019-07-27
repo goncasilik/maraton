@@ -1,0 +1,10 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.DiziElemanlariniDuzTersYazdirma\bin\Debug\netcoreapp2.1\7.1.1DiziElemanlariniDuzYazdirma.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.DiziElemanlariniDuzTersYazdirma\bin\Debug\netcoreapp2.1\7.1.1DiziElemanlariniDuzYazdirma.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.DiziElemanlariniDuzTersYazdirma\bin\Debug\netcoreapp2.1\7.1.1DiziElemanlariniDuzYazdirma.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.DiziElemanlariniDuzTersYazdirma\bin\Debug\netcoreapp2.1\7.1.1DiziElemanlariniDuzYazdirma.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.DiziElemanlariniDuzTersYazdirma\bin\Debug\netcoreapp2.1\7.1.1DiziElemanlariniDuzYazdirma.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.DiziElemanlariniDuzTersYazdirma\obj\Debug\netcoreapp2.1\7.1.1DiziElemanlariniDuzYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.DiziElemanlariniDuzTersYazdirma\obj\Debug\netcoreapp2.1\7.1.1DiziElemanlariniDuzYazdirma.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.DiziElemanlariniDuzTersYazdirma\obj\Debug\netcoreapp2.1\7.1.1DiziElemanlariniDuzYazdirma.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.DiziElemanlariniDuzTersYazdirma\obj\Debug\netcoreapp2.1\7.1.1DiziElemanlariniDuzYazdirma.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.DiziElemanlariniDuzTersYazdirma\obj\Debug\netcoreapp2.1\7.1.1DiziElemanlariniDuzYazdirma.pdb

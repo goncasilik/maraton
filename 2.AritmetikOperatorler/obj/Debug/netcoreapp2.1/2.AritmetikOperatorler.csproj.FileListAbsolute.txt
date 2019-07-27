@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\2.AritmetikOperatorler\bin\Debug\netcoreapp2.1\2.AritmetikOperatorler.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\2.AritmetikOperatorler\bin\Debug\netcoreapp2.1\2.AritmetikOperatorler.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\2.AritmetikOperatorler\bin\Debug\netcoreapp2.1\2.AritmetikOperatorler.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\2.AritmetikOperatorler\bin\Debug\netcoreapp2.1\2.AritmetikOperatorler.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\2.AritmetikOperatorler\bin\Debug\netcoreapp2.1\2.AritmetikOperatorler.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\2.AritmetikOperatorler\obj\Debug\netcoreapp2.1\2.AritmetikOperatorler.csprojAssemblyReference.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\2.AritmetikOperatorler\obj\Debug\netcoreapp2.1\2.AritmetikOperatorler.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\2.AritmetikOperatorler\obj\Debug\netcoreapp2.1\2.AritmetikOperatorler.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\2.AritmetikOperatorler\obj\Debug\netcoreapp2.1\2.AritmetikOperatorler.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\2.AritmetikOperatorler\obj\Debug\netcoreapp2.1\2.AritmetikOperatorler.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\2.AritmetikOperatorler\obj\Debug\netcoreapp2.1\2.AritmetikOperatorler.pdb

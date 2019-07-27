@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.2.1\bin\Debug\netcoreapp2.1\7.2.1İkinciDizideTersSiralama.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.2.1\bin\Debug\netcoreapp2.1\7.2.1İkinciDizideTersSiralama.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.2.1\bin\Debug\netcoreapp2.1\7.2.1İkinciDizideTersSiralama.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.2.1\bin\Debug\netcoreapp2.1\7.2.1İkinciDizideTersSiralama.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.2.1\bin\Debug\netcoreapp2.1\7.2.1İkinciDizideTersSiralama.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.2.1\obj\Debug\netcoreapp2.1\7.2.1İkinciDizideTersSiralama.csprojAssemblyReference.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.2.1\obj\Debug\netcoreapp2.1\7.2.1İkinciDizideTersSiralama.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.2.1\obj\Debug\netcoreapp2.1\7.2.1İkinciDizideTersSiralama.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.2.1\obj\Debug\netcoreapp2.1\7.2.1İkinciDizideTersSiralama.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.2.1\obj\Debug\netcoreapp2.1\7.2.1İkinciDizideTersSiralama.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.2.1\obj\Debug\netcoreapp2.1\7.2.1İkinciDizideTersSiralama.pdb

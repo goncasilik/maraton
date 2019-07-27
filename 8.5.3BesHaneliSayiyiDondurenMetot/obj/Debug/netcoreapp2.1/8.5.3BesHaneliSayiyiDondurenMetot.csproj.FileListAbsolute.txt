@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.5.3BesHaneliSayiyiDondurenMetot\bin\Debug\netcoreapp2.1\8.5.3BesHaneliSayiyiDondurenMetot.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.5.3BesHaneliSayiyiDondurenMetot\bin\Debug\netcoreapp2.1\8.5.3BesHaneliSayiyiDondurenMetot.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.5.3BesHaneliSayiyiDondurenMetot\bin\Debug\netcoreapp2.1\8.5.3BesHaneliSayiyiDondurenMetot.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.5.3BesHaneliSayiyiDondurenMetot\bin\Debug\netcoreapp2.1\8.5.3BesHaneliSayiyiDondurenMetot.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.5.3BesHaneliSayiyiDondurenMetot\bin\Debug\netcoreapp2.1\8.5.3BesHaneliSayiyiDondurenMetot.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.5.3BesHaneliSayiyiDondurenMetot\obj\Debug\netcoreapp2.1\8.5.3BesHaneliSayiyiDondurenMetot.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.5.3BesHaneliSayiyiDondurenMetot\obj\Debug\netcoreapp2.1\8.5.3BesHaneliSayiyiDondurenMetot.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.5.3BesHaneliSayiyiDondurenMetot\obj\Debug\netcoreapp2.1\8.5.3BesHaneliSayiyiDondurenMetot.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.5.3BesHaneliSayiyiDondurenMetot\obj\Debug\netcoreapp2.1\8.5.3BesHaneliSayiyiDondurenMetot.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.5.3BesHaneliSayiyiDondurenMetot\obj\Debug\netcoreapp2.1\8.5.3BesHaneliSayiyiDondurenMetot.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\8.5.3BesHaneliSayiyiDondurenMetot\obj\Debug\netcoreapp2.1\8.5.3BesHaneliSayiyiDondurenMetot.csprojAssemblyReference.cache

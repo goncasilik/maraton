@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.1TekCift\bin\Debug\netcoreapp2.1\5.2.1TekCift.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.1TekCift\bin\Debug\netcoreapp2.1\5.2.1TekCift.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.1TekCift\bin\Debug\netcoreapp2.1\5.2.1TekCift.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.1TekCift\bin\Debug\netcoreapp2.1\5.2.1TekCift.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.1TekCift\bin\Debug\netcoreapp2.1\5.2.1TekCift.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.1TekCift\obj\Debug\netcoreapp2.1\5.2.1TekCift.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.1TekCift\obj\Debug\netcoreapp2.1\5.2.1TekCift.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.1TekCift\obj\Debug\netcoreapp2.1\5.2.1TekCift.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.1TekCift\obj\Debug\netcoreapp2.1\5.2.1TekCift.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.1TekCift\obj\Debug\netcoreapp2.1\5.2.1TekCift.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.2.1TekCift\obj\Debug\netcoreapp2.1\5.2.1TekCift.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.1.2BuyukKucukSayiTespitetme\bin\Debug\netcoreapp2.1\5.1.2BuyukKucukSayiTespitetme.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.1.2BuyukKucukSayiTespitetme\bin\Debug\netcoreapp2.1\5.1.2BuyukKucukSayiTespitetme.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.1.2BuyukKucukSayiTespitetme\bin\Debug\netcoreapp2.1\5.1.2BuyukKucukSayiTespitetme.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.1.2BuyukKucukSayiTespitetme\bin\Debug\netcoreapp2.1\5.1.2BuyukKucukSayiTespitetme.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.1.2BuyukKucukSayiTespitetme\bin\Debug\netcoreapp2.1\5.1.2BuyukKucukSayiTespitetme.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.1.2BuyukKucukSayiTespitetme\obj\Debug\netcoreapp2.1\5.1.2BuyukKucukSayiTespitetme.csprojAssemblyReference.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.1.2BuyukKucukSayiTespitetme\obj\Debug\netcoreapp2.1\5.1.2BuyukKucukSayiTespitetme.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.1.2BuyukKucukSayiTespitetme\obj\Debug\netcoreapp2.1\5.1.2BuyukKucukSayiTespitetme.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.1.2BuyukKucukSayiTespitetme\obj\Debug\netcoreapp2.1\5.1.2BuyukKucukSayiTespitetme.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.1.2BuyukKucukSayiTespitetme\obj\Debug\netcoreapp2.1\5.1.2BuyukKucukSayiTespitetme.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\5.1.2BuyukKucukSayiTespitetme\obj\Debug\netcoreapp2.1\5.1.2BuyukKucukSayiTespitetme.pdb

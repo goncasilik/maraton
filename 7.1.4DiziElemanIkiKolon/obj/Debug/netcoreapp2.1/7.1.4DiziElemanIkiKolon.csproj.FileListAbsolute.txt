@@ -1,0 +1,10 @@
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.4DiziElemanIkiKolon\bin\Debug\netcoreapp2.1\7.1.4DiziElemanIkiKolon.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.4DiziElemanIkiKolon\bin\Debug\netcoreapp2.1\7.1.4DiziElemanIkiKolon.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.4DiziElemanIkiKolon\bin\Debug\netcoreapp2.1\7.1.4DiziElemanIkiKolon.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.4DiziElemanIkiKolon\bin\Debug\netcoreapp2.1\7.1.4DiziElemanIkiKolon.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.4DiziElemanIkiKolon\bin\Debug\netcoreapp2.1\7.1.4DiziElemanIkiKolon.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.4DiziElemanIkiKolon\obj\Debug\netcoreapp2.1\7.1.4DiziElemanIkiKolon.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.4DiziElemanIkiKolon\obj\Debug\netcoreapp2.1\7.1.4DiziElemanIkiKolon.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.4DiziElemanIkiKolon\obj\Debug\netcoreapp2.1\7.1.4DiziElemanIkiKolon.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.4DiziElemanIkiKolon\obj\Debug\netcoreapp2.1\7.1.4DiziElemanIkiKolon.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\7.1.4DiziElemanIkiKolon\obj\Debug\netcoreapp2.1\7.1.4DiziElemanIkiKolon.pdb

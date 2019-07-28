@@ -9,3 +9,14 @@ C:\Users\Gonca\Desktop\Maraton\Maraton\Maraton\obj\Debug\netcoreapp2.1\1.Degiske
 C:\Users\Gonca\Desktop\Maraton\Maraton\Maraton\obj\Debug\netcoreapp2.1\1.Degiskenler.AssemblyInfo.cs
 C:\Users\Gonca\Desktop\Maraton\Maraton\Maraton\obj\Debug\netcoreapp2.1\1.Degiskenler.dll
 C:\Users\Gonca\Desktop\Maraton\Maraton\Maraton\obj\Debug\netcoreapp2.1\1.Degiskenler.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\bin\Debug\netcoreapp2.1\1.Degiskenler.deps.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\bin\Debug\netcoreapp2.1\1.Degiskenler.runtimeconfig.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\bin\Debug\netcoreapp2.1\1.Degiskenler.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\Maraton\Maraton\bin\Debug\netcoreapp2.1\1.Degiskenler.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\bin\Debug\netcoreapp2.1\1.Degiskenler.pdb
+C:\Users\Gonca\Desktop\Maraton\Maraton\obj\Debug\netcoreapp2.1\1.Degiskenler.csprojAssemblyReference.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\obj\Debug\netcoreapp2.1\1.Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\obj\Debug\netcoreapp2.1\1.Degiskenler.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\Maraton\Maraton\obj\Debug\netcoreapp2.1\1.Degiskenler.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\Maraton\Maraton\obj\Debug\netcoreapp2.1\1.Degiskenler.dll
+C:\Users\Gonca\Desktop\Maraton\Maraton\obj\Debug\netcoreapp2.1\1.Degiskenler.pdb
